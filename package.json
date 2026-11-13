@@ -1,0 +1,13 @@
+{
+  "name": "desafio_teste_sudoku",
+  "version": "1.0.0",
+  "description": "Casos de teste em Jest para um Sudoku binário de tamanho 6 x 6",
+  "main": "src/SudokuBinario.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
